@@ -1,5 +1,5 @@
 <h1 align="center">
-       ✨  Quiz Web App  ✨
+       ✨  Quizzy Web App  ✨
 </h1>
 
 <div align="center">
@@ -75,18 +75,18 @@ npm run start
 
  To start contributing, follow the below guidelines:
 
-**1.** Fork [this](https://github.com/imhardikdesai/Quiz-App) repository.
+**1.** Fork repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/imhardikdesai/Quiz-App.git
+
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Quiz-App
+cd Quizzy
 ```
 
 **4.** Add a reference(remote) to the original repository.
